@@ -12,6 +12,14 @@
 
   ​
 
+### 封面
+
+---
+
+![封面](https://raw.githubusercontent.com/EmCodesStudio/book-AS.ReverseRun/dev/face/1face.png)
+
+
+
 **本人使用Github作为小说托管,希望朋友能了解代码版本控制工具,了解开源,习惯使用一些英文的优秀软件.**
 
 
